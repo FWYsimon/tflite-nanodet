@@ -1,4 +1,4 @@
-# nanodet-tflite
+# tflite-nanodet
 
 This is a implement of nanodet inference on tflite. 
 
